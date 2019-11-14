@@ -36,3 +36,8 @@ The data was split in the following way:
 # Neural Network Architecture
 This is the architecture that I've built:
 
+
+![convnet_architecture](https://user-images.githubusercontent.com/19469956/68879258-f065a400-06bd-11ea-8c4e-499a13d59ca2.jpg)
+
+
+
